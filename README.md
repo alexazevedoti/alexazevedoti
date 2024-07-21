@@ -1,0 +1,6 @@
+- 👋 Olá, eu sou o Alex Azevedo @alexazevedoti
+- 👀 Meu interesse é em ser um desenvolvedor profissional.
+- 🌱 Atualmente eu trabalho com instalação, suporte e manutenção em informática e segurança eletrônica.
+- 💞️ Amo tecnologia e busco conhecimento para unir ainda mais o útil ao agradável.
+- 📫 Vocês podem me achar no [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-s-azevedo/)
+- [![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram)](https://www.instagram.com/comphelptecnologia/)
